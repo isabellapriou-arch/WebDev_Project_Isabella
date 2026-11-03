@@ -65,3 +65,14 @@ footer {
     background-color: #f4dce8;
     border-radius: 8px;
 }
+
+#home,
+#home + p,
+#home + p + p,
+#home + p + p + p,
+#home + p + p + p + p,
+#home + p + p + p + p + p,
+#more,
+#more + p {
+    text-align: center;
+}
