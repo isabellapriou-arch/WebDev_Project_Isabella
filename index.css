@@ -73,19 +73,7 @@ footer {
 #home + p + p + p + p,
 #home + p + p + p + p + p,
 
-/* Navigation Menu */
-nav {
-    position: absolute;
-    top: 20px;
-    left: 20px;
-    display: flex;
-    gap: 15px;
-}
 
-nav a:hover {
-    background-color: #e8c3d5;
-    color: #54263f;
-}
 #more,
 #more + p {
     text-align: center;
