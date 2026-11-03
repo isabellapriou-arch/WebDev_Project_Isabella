@@ -48,3 +48,8 @@ footer {
     background-color: #f4dce8;
     border-radius: 8px;
 }
+
+#more,
+#more + p {
+    text-align: center;
+}
