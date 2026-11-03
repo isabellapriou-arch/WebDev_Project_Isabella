@@ -82,15 +82,6 @@ nav {
     gap: 15px;
 }
 
-nav a {
-    text-decoration: none;
-    color: #713d59;
-    background-color: #f4dce8;
-    padding: 10px 15px;
-    border-radius: 5px;
-    font-family: Arial, sans-serif;
-}
-
 nav a:hover {
     background-color: #e8c3d5;
     color: #54263f;
