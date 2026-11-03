@@ -1,0 +1,67 @@
+/* Basic styling for the main page */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 24px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #fff8fb;
+}
+
+header, article, nav, section, footer {
+    max-width: 900px;
+    margin: 0 auto 24px;
+}
+
+header {
+    padding: 24px;
+    text-align: center;
+    background-color: #f4dce8;
+    border-radius: 8px;
+}
+
+h1, h2, h3 {
+    color: #713d59;
+}
+
+article {
+    text-align: center;
+}
+
+article img {
+    display: block;
+    width: 55vw;
+    min-width: 330px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 12px;
+    border-radius: 8px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 12px;
+    background-color: #f8eaf1;
+    border-radius: 8px;
+}
+
+a {
+    color: #8b4568;
+}
+
+a:hover {
+    color: #54263f;
+}
+
+footer {
+    padding: 16px;
+    text-align: center;
+    background-color: #f4dce8;
+    border-radius: 8px;
+}
