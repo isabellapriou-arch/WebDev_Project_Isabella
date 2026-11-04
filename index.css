@@ -112,3 +112,11 @@ img{
     border-radius: 50%;
     box-sizing: border-box;
 }
+
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
