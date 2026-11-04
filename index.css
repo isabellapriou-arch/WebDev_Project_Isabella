@@ -94,8 +94,9 @@ button:hover{
   
 }
 
-.card{
+.card {
     width: 210px;
+    margin: 0 auto;
     border-width: 1px;
     border-radius: 5px;
     border-color: grey;
