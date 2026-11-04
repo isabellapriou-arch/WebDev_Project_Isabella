@@ -78,3 +78,18 @@ footer {
 #more + p {
     text-align: center;
 }
+
+
+button{
+  background-color: RGBA(200, 50, 50, 0.6);
+  width: 150px;
+  height: 50px;
+  font-size: 30px;
+  color: white;  
+}
+
+button:hover{
+  background-color: RGBA(100, 150, 100, 0.6);
+
+  
+}
